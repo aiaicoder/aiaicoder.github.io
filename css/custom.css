@@ -541,12 +541,12 @@ div#category {
 
 /*鼠标样式*/
 body {
-    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),
+    cursor: url(https://cdn.jsdelivr.net/gh/xlenco/JS-X@main/mouse/normal.cur),
     default;
 }
 a,
 img {
-    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),
+    cursor: url(https://cdn.jsdelivr.net/gh/xlenco/JS-X@main/mouse/link.cur),
     default;
 }
 /* 横向排布子菜单 */
