@@ -4,6 +4,38 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2022/12/01/1/"/>
+      <url>/2022/12/01/1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Http和Https之间的区别</title>
+      <link href="/2022/11/30/Http%E5%92%8CHttps%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
+      <url>/2022/11/30/Http%E5%92%8CHttps%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Http和Https之间的区别"><a href="#Http和Https之间的区别" class="headerlink" title="Http和Https之间的区别"></a>Http和Https之间的区别</h3><p>有如下四个不同点：</p><ol><li><strong>安全性</strong>：首先http是没有经过加密的，请求和响应的报文都是明文的，只要有一点http的基础都能看得懂报文里的内容，但是随着现在互联网电商的发展，http协议已经慢慢的变得不安全起来，很容易造成信息的泄露，拦截和攻击，所以这个时候就要在http后面加上s—–&gt;<strong>HTTPS</strong>,这个s代表的是<strong>SSL,TLS</strong>,SSL是TLS的前身，但是绝大部分浏览器都不支持SSL，支持TLS。</li><li><strong>端口号</strong>：首先我们知道http的端口号是80，而如果改成了https那么他的端口号就会变成443</li><li><strong>权重值</strong>：当我们去访问百度或者谷歌的时候，搜索内容的时候，他就会有一个排行，这个排行就是根据权重进行排列，https的权重就会比http的权重高，网站就会优先展示。</li><li><strong>网站的申请流程</strong>：https要去申请CA证书，而https则不需要。</li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>数据结构与算法(第二章)</title>
       <link href="/2022/11/30/%E7%A8%80%E7%96%8F%E6%95%B0%E7%BB%84/"/>
       <url>/2022/11/30/%E7%A8%80%E7%96%8F%E6%95%B0%E7%BB%84/</url>
@@ -23,25 +55,6 @@
             <tag> 算法 </tag>
             
             <tag> java </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Http和Https之间的区别</title>
-      <link href="/2022/11/30/Http%E5%92%8CHttps%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
-      <url>/2022/11/30/Http%E5%92%8CHttps%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB/</url>
-      
-        <content type="html"><![CDATA[<h3 id="Http和Https之间的区别"><a href="#Http和Https之间的区别" class="headerlink" title="Http和Https之间的区别"></a>Http和Https之间的区别</h3><p>有如下四个不同点：</p><ol><li><strong>安全性</strong>：首先http是没有经过加密的，请求和响应的报文都是明文的，只要有一点http的基础都能看得懂报文里的内容，但是随着现在互联网电商的发展，http协议已经慢慢的变得不安全起来，很容易造成信息的泄露，拦截和攻击，所以这个时候就要在http后面加上s—–&gt;<strong>HTTPS</strong>,这个s代表的是<strong>SSL,TLS</strong>,SSL是TLS的前身，但是绝大部分浏览器都不支持SSL，支持TLS。</li><li><strong>端口号</strong>：首先我们知道http的端口号是80，而如果改成了https那么他的端口号就会变成443</li><li><strong>权重值</strong>：当我们去访问百度或者谷歌的时候，搜索内容的时候，他就会有一个排行，这个排行就是根据权重进行排列，https的权重就会比http的权重高，网站就会优先展示。</li><li><strong>网站的申请流程</strong>：https要去申请CA证书，而https则不需要。</li></ol>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 网络 </tag>
             
         </tags>
       
@@ -118,39 +131,6 @@
     
     
     <entry>
-      <title>关于我</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<p>我</p><p>常用昵称是：小新</p><p>一个热爱编程的大学生</p><p>热爱探索，正是对一切新鲜的事物感到好奇</p><p>于是便有了这个博客</p><p>目标是成为一名优秀的程序员</p><p>每天进步一点点</p><hr><p>基础信息</p><p>微信：1124655410</p><p>博客：（暂无域名）</p><p>GitHub:<a href="https://github.com/aiaicoder">https://github.com/aiaicoder</a></p><p>邮箱：<a href="mailto:&#49;&#x35;&#55;&#x31;&#50;&#x30;&#x38;&#x32;&#x36;&#48;&#64;&#x71;&#x71;&#46;&#x63;&#111;&#109;">&#49;&#x35;&#55;&#x31;&#50;&#x30;&#x38;&#x32;&#x36;&#48;&#64;&#x71;&#x71;&#46;&#x63;&#111;&#109;</a></p><hr><p>认认真真过好每一天，做好每一件事情</p><p>打败我们的不是别人，而是贪玩的自己</p><p>不负年华，不负你</p><hr><p>免责声明<br>本站以分享互联网经验、学习知识为目的，所有文章所涉及使用的工具、资源等均来自互联网， 仅供学习和研究使用，版权归作者所有，如果无意之中侵犯了您的版权，请来信告知。本站将在第一时间删除！另外， 本站内的文章多为博主原创，大部分是由CSDN平台搬迁过来，仅供学习交流之用，不参与商业用途。</p><p>遵守相关法律法规，由于本站资源部分来源于网络，开发也是使用开源模板，故无法核实资源侵权的真实性，无论出于何种目的要求本站删除内容，“您”均需要提供相关证明，否则不予处理。</p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>留言板</title>
-      <link href="/comments/index.html"/>
-      <url>/comments/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>必看内容</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -162,9 +142,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -184,9 +164,20 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[    <div id="aplayer-dpXThtvR" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="5092779494" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>留言板</title>
+      <link href="/comments/index.html"/>
+      <url>/comments/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -195,11 +186,33 @@
     
     
     <entry>
-      <title></title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[    <div id="aplayer-TRizNZDR" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="5092779494" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于我</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<p>我</p><p>常用昵称是：小新</p><p>一个热爱编程的大学生</p><p>热爱探索，正是对一切新鲜的事物感到好奇</p><p>于是便有了这个博客</p><p>目标是成为一名优秀的程序员</p><p>每天进步一点点</p><hr><p>基础信息</p><p>微信：1124655410</p><p>博客：（暂无域名）</p><p>GitHub:<a href="https://github.com/aiaicoder">https://github.com/aiaicoder</a></p><p>邮箱：<a href="mailto:&#49;&#x35;&#55;&#49;&#50;&#48;&#x38;&#x32;&#54;&#x30;&#x40;&#113;&#113;&#x2e;&#99;&#x6f;&#109;">&#49;&#x35;&#55;&#49;&#50;&#48;&#x38;&#x32;&#54;&#x30;&#x40;&#113;&#113;&#x2e;&#99;&#x6f;&#109;</a></p><hr><p>认认真真过好每一天，做好每一件事情</p><p>打败我们的不是别人，而是贪玩的自己</p><p>不负年华，不负你</p><hr><p>免责声明<br>本站以分享互联网经验、学习知识为目的，所有文章所涉及使用的工具、资源等均来自互联网， 仅供学习和研究使用，版权归作者所有，如果无意之中侵犯了您的版权，请来信告知。本站将在第一时间删除！另外， 本站内的文章多为博主原创，大部分是由CSDN平台搬迁过来，仅供学习交流之用，不参与商业用途。</p><p>遵守相关法律法规，由于本站资源部分来源于网络，开发也是使用开源模板，故无法核实资源侵权的真实性，无论出于何种目的要求本站删除内容，“您”均需要提供相关证明，否则不予处理。</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
